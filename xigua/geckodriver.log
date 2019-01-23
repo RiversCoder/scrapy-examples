@@ -77,3 +77,112 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
 
+1548161097148	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.DUruBNdBV01M"
+*** You are running in headless mode.
+1548161739651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.tNgsPEn6MncC"
+*** You are running in headless mode.
+1548161740379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548161740379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548161742292	Marionette	INFO	Listening on port 58150
+1548161742429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548162217713	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.ORYsTkvZyykD"
+*** You are running in headless mode.
+1548162218288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548162218288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548162220186	Marionette	INFO	Listening on port 59229
+1548162220522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548167500966	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "authority=www.pearvideo.com" "scheme=https" "referer=https://www.pearvideo.com/search.jsp?start=0&k=%E6%80%AA%E5%85%BD" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36" "x-requested-with=XMLHttpRequest" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.ttQlQ6YH2iLy"
+1548167501902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548167501903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548167505474	Marionette	INFO	Listening on port 54318
+1548167505507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 115ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+[Chil[Parent 18908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 8392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8392, C[Child 20416, Chrome_ChildThread] WARNING: pipommand: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "authority=www.pearvideo.com" "scheme=https" "referer=https://www.pearvideo.com/search.jsp?start=0&k=%E6%80%AA%E5%85%BD" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36" "x-requested-with=XMLHttpRequest" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.JuQE7pjKU9i1"
+*** You are running in headless mode.
+1548168875699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548168875699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548168878452	Marionette	INFO	Listening on port 57737
+1548168878486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+rome/66.0.3359.139 Safari/537.36\'" "x-requested-with=\'XMLHttpRequest\'" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.TLJz3dNPQr8P"
+*** You are running in headless mode.
+1548168990443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548168990443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548168993325	Marionette	INFO	Listening on port 58213
+1548168993477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+rome/66.0.3359.139 Safari/537.36\'" "x-requested-with=\'XMLHttpRequest\'" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.yO7lfOlCjNCu"
+1548169050709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548169050709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548169053700	Marionette	INFO	Listening on port 58429
+1548169054074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1548169545601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548169547989	Marionette	INFO	Listening on port 60272
+1548169548139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=, line 2: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
