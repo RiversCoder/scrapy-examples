@@ -18,5 +18,6 @@ class XiguaItem(scrapy.Item):
     file_time = scrapy.Field()
     file_author = scrapy.Field()
     file_author_homepage = scrapy.Field()
+    file_home_url = scrapy.Field()
 
     pass

@@ -18,11 +18,18 @@ NEWSPIDER_MODULE = 'xigua.spiders'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36'
 
+DEFAULT_REQUEST_HEADERS = {
+    'authority': 'www.pearvideo.com',
+    'scheme': 'https',
+    "Referer": "https://www.pearvideo.com/search.jsp",
+    "x-requested-with": "XMLHttpRequest",
+}
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -52,9 +59,9 @@ DOWNLOAD_DELAY = 0.5
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-DOWNLOADER_MIDDLEWARES = {
-   'xigua.middlewares.SeleniumXiguaDownloaderMiddleware': 543,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#    'xigua.middlewares.SeleniumXiguaDownloaderMiddleware': 543,
+# }
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
