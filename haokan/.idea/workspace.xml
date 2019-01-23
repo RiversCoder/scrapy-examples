@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec0ea1e1-4b96-44ca-a7b2-2f0b8139d997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyTest" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/spiders/xigua_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/spiders/xigua_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/我的视频.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haokan/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/haokan/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xigua/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xigua/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,17 +17,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
+            <state relative-caret-position="1364">
               <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="379">
+              <caret line="81" column="24" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="81" selection-end-column="24" />
               <folding>
                 <element signature="e#246#255#0" expanded="true" />
               </folding>
@@ -43,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="396">
               <caret line="18" column="15" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
@@ -52,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2432">
-              <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+            <state relative-caret-position="2728">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
               <folding>
                 <element signature="e#169#195#0" expanded="true" />
               </folding>
@@ -61,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/spiders/haokan_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="22">
               <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -98,10 +93,10 @@
         <option value="$PROJECT_DIR$/scrapy.cfg" />
         <option value="$PROJECT_DIR$/haokan/settings.py" />
         <option value="$PROJECT_DIR$/haokan/items.py" />
-        <option value="$PROJECT_DIR$/haokan/pipelines.py" />
         <option value="$PROJECT_DIR$/haokan/middlewares.py" />
         <option value="$PROJECT_DIR$/haokan/spiders/haokan_spider.py" />
         <option value="C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py" />
+        <option value="$PROJECT_DIR$/haokan/pipelines.py" />
       </list>
     </option>
   </component>
@@ -117,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +135,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,17 +169,18 @@
       <workItem from="1548159325388" duration="12105000" />
       <workItem from="1548205554236" duration="9379000" />
       <workItem from="1548225509552" duration="4992000" />
+      <workItem from="1548244838171" duration="1219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26476000" />
+    <option name="totallyTimeSpent" value="27695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="122" y="190" width="1681" height="753" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12584825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12708205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,53 +259,47 @@
     <entry file="file://$PROJECT_DIR$/haokan/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py" />
     <entry file="file://$PROJECT_DIR$/haokan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="1364">
           <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/haokan/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="396">
           <caret line="18" column="15" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#246#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/haokan/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2432">
-          <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+        <state relative-caret-position="2728">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="55" column="61" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/haokan/spiders/haokan_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="22">
           <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="81" column="24" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="81" selection-end-column="24" />
+          <folding>
+            <element signature="e#246#255#0" expanded="true" />
           </folding>
         </state>
       </provider>

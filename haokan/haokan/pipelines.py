@@ -12,7 +12,7 @@ import requests
 import re
 from contextlib import closing
 BASIC_PATH = 'videos/'
-D_PATH = 'D:\\videos\\'
+D_PATH = 'C:\\videos\\'
 import scrapy
 
 index = 0
@@ -28,7 +28,7 @@ class HaokanPipeline(object):
     def process_item(self, item, spider):
         self.data = dict(item)
 
-        if ( int(re.findall(r"\d*", self.data['file_play'])[0]) > 100 or re.search('万', self.data['file_play']) ):
+        if ( int(re.findall(r"\d*", self.data['file_play'])[0]) > 5000 or re.search('万', self.data['file_play']) ):
             self.downloads()
             pass
         return item
