@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec0ea1e1-4b96-44ca-a7b2-2f0b8139d997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/haokan/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/haokan/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="122" />
     <option name="y" value="190" />
     <option name="width" value="1681" />
@@ -169,16 +167,15 @@
       <workItem from="1548159325388" duration="12105000" />
       <workItem from="1548205554236" duration="9379000" />
       <workItem from="1548225509552" duration="4992000" />
-      <workItem from="1548244838171" duration="1219000" />
+      <workItem from="1548244838171" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27695000" />
+    <option name="totallyTimeSpent" value="28292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="190" width="1681" height="753" extended-state="1" />
-    <editor active="true" />
+    <frame x="122" y="190" width="1681" height="753" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12708205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
