@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec0ea1e1-4b96-44ca-a7b2-2f0b8139d997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scrapyTest" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/spiders/xigua_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xigua/xigua/spiders/xigua_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xigua/xigua/我的视频.mp4" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
+            <state relative-caret-position="1178">
               <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
             </state>
           </provider>
@@ -31,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="341">
+              <caret line="81" column="24" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="81" selection-end-column="24" />
               <folding>
                 <element signature="e#246#255#0" expanded="true" />
               </folding>
@@ -52,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2432">
-              <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+            <state relative-caret-position="2356">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
               <folding>
                 <element signature="e#169#195#0" expanded="true" />
               </folding>
@@ -61,13 +55,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haokan/spiders/haokan_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+            <state relative-caret-position="133">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../editVideo/editAnimal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../editVideo/editTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="853">
+              <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,14 +120,16 @@
         <option value="$PROJECT_DIR$/haokan/middlewares.py" />
         <option value="$PROJECT_DIR$/haokan/spiders/haokan_spider.py" />
         <option value="C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py" />
+        <option value="$PROJECT_DIR$/../editVideo/editAnimal.py" />
+        <option value="$PROJECT_DIR$/../editVideo/editTest.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="122" />
-    <option name="y" value="190" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="263" />
+    <option name="y" value="175" />
     <option name="width" value="1681" />
-    <option name="height" value="753" />
+    <option name="height" value="755" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,17 +194,18 @@
       <workItem from="1548159325388" duration="12105000" />
       <workItem from="1548205554236" duration="9379000" />
       <workItem from="1548225509552" duration="4992000" />
+      <workItem from="1548305022873" duration="7495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26476000" />
+    <option name="totallyTimeSpent" value="33971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="190" width="1681" height="753" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12584825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1098081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,9 +284,16 @@
     <entry file="file://$PROJECT_DIR$/haokan/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="55" column="61" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/haokan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="1178">
           <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
         </state>
       </provider>
@@ -277,39 +305,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#246#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/haokan/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2432">
-          <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+        <state relative-caret-position="2356">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Users/KD/AppData/Local/Programs/Python/Python36/Lib/site-packages/moviepy/config_defaults.py">
+    <entry file="file://$PROJECT_DIR$/haokan/spiders/haokan_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="55" column="61" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
+        <state relative-caret-position="133">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/haokan/spiders/haokan_spider.py">
+    <entry file="file://$PROJECT_DIR$/haokan/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+        <state relative-caret-position="341">
+          <caret line="81" column="24" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="81" selection-end-column="24" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#246#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../editVideo/editAnimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../editVideo/editTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="853">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
