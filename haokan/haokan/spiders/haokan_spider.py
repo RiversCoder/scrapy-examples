@@ -11,7 +11,7 @@ class HaokanspiderSpider(scrapy.Spider):
     allowed_domains = ['baijiahao.baidu.com']
 
     # https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=
-    start_urls = ['https://baijiahao.baidu.com/u?app_id=1590556883011036&fr=bjhvideo']
+    start_urls = ['https://baijiahao.baidu.com/u?app_id=1614655764535917&fr=bjhvideo']
 
     start_page = 0
     page_per = 10

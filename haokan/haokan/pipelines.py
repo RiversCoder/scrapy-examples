@@ -12,7 +12,7 @@ import requests
 import re
 from contextlib import closing
 BASIC_PATH = 'videos/'
-D_PATH = 'D:\\videos\\'
+D_PATH = 'C:\\videos\\'
 import scrapy
 
 index = 0
