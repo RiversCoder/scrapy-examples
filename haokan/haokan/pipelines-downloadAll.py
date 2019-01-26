@@ -27,12 +27,9 @@ class HaokanPipeline(object):
 
     def process_item(self, item, spider):
         self.data = dict(item)
-
-        if(self.data['file_url'] and (re.search('小时', self.data['file_time']) or re.search('分钟', self.data['file_time'])) ):
-            print('coming in')
+        if (int(re.findall(r"\d*", self.data['file_play'])[0]) > 5000 or re.search('万', self.data['file_play']) ):
             self.downloads()
-            if (int(re.findall(r"\d*", self.data['file_play'])[0]) > 5000 or re.search('万', self.data['file_play']) ):
-                pass
+            pass
         return item
 
     def get_file_url(self, response):

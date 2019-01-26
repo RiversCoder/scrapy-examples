@@ -126,7 +126,10 @@ class SeleniumHaokanDownloaderMiddleware(object):
             spider.driver.get(request.url)
             # 由于淘宝的页面数据加载需要进行滚动，但并不是所有js动态数据都需要滚动。
 
-            for x in range(1, 32):
+            # 模拟点击视频
+            spider.driver.find_element_by_xpath('//div[@class="tab-list"]/div[@data-rel="video"]').click()
+
+            for x in range(1, 2):
                 js = "var q=document.documentElement.scrollTop=100000"
                 spider.driver.execute_script(js)
                 time.sleep(3)

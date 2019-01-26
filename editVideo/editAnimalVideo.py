@@ -15,7 +15,7 @@ class AnimalVideo:
     def editVideo(self, path1, path2):
 
         # 出场动画
-        start_clip = VideoFileClip("./movieVideo/movie_start.mp4").resize(1 / 3)
+        start_clip = VideoFileClip("./animal/animal_logo_start.mp4").resize(1 / 3)
 
         # 要播放的视频
         start_start_time = start_clip.duration
@@ -24,11 +24,11 @@ class AnimalVideo:
 
         #结束动画
         end_start_time = video_clip.duration + start_start_time
-        end_clip = VideoFileClip("./movieVideo/movie_end.mp4").resize(1/3)
+        end_clip = VideoFileClip("./animal/animal_logo_end.mp4").resize(1/3)
 
         #文字动画
         #font = "ArialUnicode"  # 只有这个支持中文
-        txt_clip = TextClip("杨桃影视圈", font="./animal/animal.ttf", fontsize=19, color='white') # 萌宠影视汇
+        txt_clip = TextClip("萌宠影视汇", font="./movie/movie.ttf", fontsize=19, color='white') # 萌宠影视汇
         txt_clip = txt_clip.set_duration(video_clip.duration)
         video = CompositeVideoClip([start_clip,
                                     video_clip.set_start(start_start_time).set_pos((0, 33)),
