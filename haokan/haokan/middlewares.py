@@ -129,10 +129,11 @@ class SeleniumHaokanDownloaderMiddleware(object):
             # 模拟点击视频
             spider.driver.find_element_by_xpath('//div[@class="tab-list"]/div[@data-rel="video"]').click()
 
+            time.sleep(1)
             for x in range(1, 2):
                 js = "var q=document.documentElement.scrollTop=100000"
                 spider.driver.execute_script(js)
-                time.sleep(3)
+                time.sleep(1)
                 print(x)
 
             # for x in range(1, 11, 2):

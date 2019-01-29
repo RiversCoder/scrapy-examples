@@ -7,7 +7,7 @@ from selenium.webdriver import FirefoxOptions
 
 class HaokanspiderSpider(scrapy.Spider):
 
-    name = 'haokan_spider'
+    name = 'mantou_spider'
     allowed_domains = ['baijiahao.baidu.com']
 
     # https://www.pearvideo.com/search_loading.jsp?start=20&k=%E6%80%AA%E5%85%BD&sort=
@@ -38,17 +38,7 @@ class HaokanspiderSpider(scrapy.Spider):
         
     """
 
-
-    mantou_urls = [
-        # 'https://baijiahao.baidu.com/u?app_id=1613828692956293&fr=bjhvideo'
-        # 'https://baijiahao.baidu.com/u?app_id=1593533634618523&fr=bjhvideo',
-        # 'https://baijiahao.baidu.com/u?app_id=1613834775641727&fr=bjhvideo',
-        # 'https://baijiahao.baidu.com/u?app_id=1608315321387909&fr=bjhvideo',
-        # 'https://baijiahao.baidu.com/u?app_id=1608315955599477&fr=bjhvideo',
-        'https://baijiahao.baidu.com/u?app_id=1593558236803423&fr=bjhvideo',
-    ]
-
-    animal_urls = [
+    start_urls = [
         'https://baijiahao.baidu.com/u?app_id=1585371786487015&fr=bjhvideo'
         'https://baijiahao.baidu.com/u?app_id=1577668344064660&fr=bjhvideo',
         'https://baijiahao.baidu.com/u?app_id=1596449732193287&fr=bjhvideo',
@@ -62,10 +52,24 @@ class HaokanspiderSpider(scrapy.Spider):
     ]
 
 
-    start_urls = mantou_urls
+    """
+        
+        馒头电影视频:
 
+            创客英雄汇 1613828692956293 3.6万粉丝 3326万播放 3200视频 
+            精彩剧集大放送 1593533634618523 152万粉丝 4.2亿播放 7189视频
+            爱豆大剧场 1613834775641727 4.7万粉丝 6305万播放 8071视频
+            涵哥追剧 1608315321387909 41.万粉丝 3766万播放 3715视频
+            涵海剧场 1608315955599477 6.3万粉丝 6303万播放 3913视频
+            红番茄剧透坊 1593558236803423 20万粉丝 2.2亿  9934视频
 
+    """
 
+    mantou_urls = [
+       
+        'https://baijiahao.baidu.com/u?app_id=1593558236803423&fr=bjhvideo',
+    ]
+    
     # start_urls = [
     #     'https://baijiahao.baidu.com/u?app_id=1589734860468760&fr=bjhvideo'
     # ]

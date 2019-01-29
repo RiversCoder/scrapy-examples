@@ -11,8 +11,8 @@ import os
 import requests
 import re
 from contextlib import closing
-BASIC_PATH = 'videos/'
-D_PATH = 'C:\\videos\\'
+BASIC_PATH = 'movies/'
+D_PATH = 'D:\\videos\\videos\\'
 import scrapy
 
 index = 0
@@ -29,9 +29,10 @@ class HaokanPipeline(object):
         self.data = dict(item)
 
         if(self.data['file_url'] and (re.search('小时', self.data['file_time']) or re.search('分钟', self.data['file_time'])) ):
-            print('coming in')
-            self.downloads()
-            if (int(re.findall(r"\d*", self.data['file_play'])[0]) > 5000 or re.search('万', self.data['file_play']) ):
+            print('coming in 1')
+            if (int(re.findall(r"\d*", self.data['file_play'])[0]) > 5 or re.search('万', self.data['file_play']) ):
+                print('coming in 2')
+                self.downloads()
                 pass
         return item
 

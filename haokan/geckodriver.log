@@ -770,3 +770,148 @@ console.error: BroadcastService:
 
 JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_10ad556.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
 JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_10ad556.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
+1548736360807	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.e4GLLIWoS1Sv"
+*** You are running in headless mode.
+1548736366416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548736366419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Parent 16536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16536, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1548736383009	Marionette	INFO	Listening on port 53663
+1548736385034	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_6dbfafe.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_6dbfafe.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
+1548736490778	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.U3IgQqSxy3Iq"
+*** You are running in headless mode.
+1548736492224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548736492224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548736497798	Marionette	INFO	Listening on port 54075
+1548736498113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_6dbfafe.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/lib/broadcastLock_f370e18.js,/next-profile/bdbox/client/share_5b68cdf.js,/next-profile/js/lib/topic_02dfdbe.js,/next-profile/js/configInfo_350a7a5.js,/next-profile/components/procedure/procedure_reactive_eecb73a.js,/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js,/next-profile/js/lib/likeAnimation_451a33f.js,/next-profile/components/comment/comment_reactive_54d18a2.js,/next-profile/components/dynamiclist/dynamiclist_reactive_6dbfafe.js,/next-profile/widget/tabhub/tabhub_3cc50a4.js, line 1: unreachable code after return statement
+1548741329708	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.zi8qplHkbLdA"
+*** You are running in headless mode.
+1548741330484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548741330484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548741335412	Marionette	INFO	Listening on port 49563
+1548741335811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ts@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548741563284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548741568315	Marionette	INFO	Listening on port 51787
+1548741568408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ts@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548741877183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548741883443	Marionette	INFO	Listening on port 54629
+1548741883642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ts@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548741981999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548741987254	Marionette	INFO	Listening on port 55587
+1548741987483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548742105661	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.1aDwkakDpesH"
+*** You are running in headless mode.
+1548742106899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548742106899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548742112216	Marionette	INFO	Listening on port 56672
+1548742112264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548743393500	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\92809\\AppData\\Local\\Temp\\rust_mozprofile.Nwi2yzgq7S4Q"
+*** You are running in headless mode.
+1548743394128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548743394128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548743399128	Marionette	INFO	Listening on port 53112
+1548743399589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://baijiahao.baidu.com/u?app_id=1613828692956293&fr=bjhvideohttps://baijiahao.baidu.com/u?app_id=1593533634618523&fr=bjhvideo, line 112: TypeError: this.hasClass is not a function
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement
+JavaScript warning: https://s.bdstatic.com/n/??/next-profile/js/bjh/m-realshow_915b358.js,/next-profile/js/bjh/m-realclick_10c9338.js,/next-profile/bdbox/ui/lazyload_31669e4.js,/next-profile/js/tabhub_917566a.js,/next-profile/components/dynamiclist/dynamiclist-utils_ee61c5c.js,/next-profile/widget/article/article_8d6fc17.js, line 1: unreachable code after return statement

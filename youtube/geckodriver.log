@@ -1320,19 +1320,18 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
 
-mission: resource://pdf.js/
-1548663118048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
-1548663123726	Marionette	INFO	Listening on port 65467
-1548663124174	Marionette	WARN	TLS certificate errors will be ignored for this session
-[Parent 33740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 33556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 33556, ChroJavaScript error: chrome://global/content/customElements.js, line 185: too much recursion
-JavaScript error: chrome://global/content/customElements.js, line 185: too much recursion
-JavaScript error: chrome://global/content/customElements.js, line 185: too much recursion
-JavaScript error: chrome://global/content/customElements.js, line 185: too much recursion
-JavaScript error: chrome://global/content/customElements.js, line 185: too much recursion
-JavaScript warning: https://jingyan.baidu.com/article/dca1fa6f03caa5f1a5405270.html, line 168: SyntaxError: 09 is not a legal ECMA-262 octal constant
-JavaScript warning: https://jingyan.baidu.com/article/b0b63dbf1975f74a48307089.html, line 169: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 30004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 30004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34156, Chrome_Ch1548666028909	Marionette	INFO	Stopped listening on port 63072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 31328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, ll, line 169: SyntaxError: 09 is not a legal ECMA-262 octal constant
 JavaScript error: resource:///actors/NetErrorChild.jsm, line 651: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
 [Parent 33740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
